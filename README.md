@@ -1,4 +1,4 @@
 # websitedemo
 this is my first git repository.
 <br>
-author-aman chourasiya
+author-aman chourasiya(tera college)
